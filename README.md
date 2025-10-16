@@ -14,21 +14,27 @@
 
 ### 💼 Work / Experience
 
-**Project Associate – ADAS Research Project**  
-Indian Institute of Technology Roorkee (Civil Engineering Dept.) | August 2025 | Stipend: ₹30,000/month  
-- Developed Python-based ADAS modules on Jetson Nano (Ubuntu) for real-time vehicle detection, tracking, and camera calibration.
-- Implemented self-training regression models with automated loading, enabling direct deployment without manual retraining.
+👨‍🔬 Project Associate – ADAS Research Project
+🏛️ Indian Institute of Technology Roorkee – Civil Engineering Dept. | 📅 Aug 2025
+💰 Stipend: ₹30,000/month
+- 🧠 Developed Python-based ADAS modules on Jetson Nano (Ubuntu) for real-time 🚗 vehicle detection, 📍 tracking, and 🎥 camera calibration.
+- 🤖 Implemented self-training regression models with 🔁 automated loading, enabling zero-touch deployment without manual retraining.
+🛠️ Skills: Python 🐍, Jetson Nano, Ubuntu, Computer Vision 👁️, Machine Learning 📊
 
-**Python Development Intern**  
-Pinnacle Labs | June 2025 – July 2025 | Remote  
-- Developed a GUI-based alarm clock application with custom alarm tones, snooze, and daily/weekly scheduling features.
-- Built a calendar tool with integrated task scheduling to enhance productivity and user interaction.
+💻 Python Development Intern
+🏢 Pinnacle Labs | 🏠 Remote | 📅 June – July 2025
+- ⏰ Built a GUI-based alarm clock featuring 🎵 custom tones, 💤 snooze, and 📆 daily/weekly scheduling.
+- 📅 Created a calendar tool with integrated ✅ task scheduling to enhance user productivity.
+🛠️ Skills: Python 🐍, Tkinter (or PyQt if used), OOP, UX Design 🎨
 
-**Wall Climbing Drone Project** | July 2024 – September 2024  
-Technologies: C++, HTML, CSS, Git, Data Structures & Algorithms  
-- Developed a C++ wall-climbing drone prototype with modular control architecture.
-- Focused on system-level optimization, control logic, and clean code implementation using Git and core algorithms.
-- Achieved 100% test success and reduced latency by 25% through serial communication debugging with CBRI scientists.
+🚁 Wall Climbing Drone Project
+📅 July – Sept 2024 | 🤝 In collaboration with CBRI Scientists
+🧰 Technologies: C++ 💻, Data Structures & Algorithms 🧮, Git 🔧, HTML/CSS 🌐
+- 🧱 Designed a modular wall-climbing drone with C++ control logic and optimized system-level performance.
+- ⚡ Reduced communication latency by 25% via 🔌 serial debugging and firmware tuning.
+- ✅ Achieved 100% successful test rate under lab conditions with robust code and hardware integration.
+🛠️ Skills: C++ 🧠, Embedded Systems 🤖, Serial Communication 📡, Git 🔧, Algorithms 📚
+
 
 ---
 

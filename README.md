@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I'm Yash Singhal</h2>
-<h3 align="left">Code Newbie with Big Dreams | Python, C++ | AI/ML & Data Science Explorer</h3>
+<h2 align="center">Hi 👋, I'm Yash Singhal</h2>
+<h3 align="center">Code Newbie with Big Dreams | Python, C++ | AI/ML & Data Science Explorer</h3>
 
 ---
 
